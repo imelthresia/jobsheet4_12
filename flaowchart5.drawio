@@ -1,0 +1,49 @@
+<mxfile host="65bd71144e">
+    <diagram name="Page-1" id="SzH5ZjHIOKlgQyfLvC_y">
+        <mxGraphModel dx="832" dy="475" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="12" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TcskRT-ms2JkNAbtTxXH-2" target="TcskRT-ms2JkNAbtTxXH-3">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="TcskRT-ms2JkNAbtTxXH-2" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=hexagon;perimeter=hexagonPerimeter2;arcSize=6;size=0.27;" parent="1" vertex="1">
+                    <mxGeometry x="310" y="190" width="170" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TcskRT-ms2JkNAbtTxXH-3" target="TcskRT-ms2JkNAbtTxXH-4">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="TcskRT-ms2JkNAbtTxXH-3" value="" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=0;size=0.2608695652173913;" parent="1" vertex="1">
+                    <mxGeometry x="321.25" y="310" width="147.5" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TcskRT-ms2JkNAbtTxXH-4" target="TcskRT-ms2JkNAbtTxXH-5">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="TcskRT-ms2JkNAbtTxXH-4" value="total =harga *jumlah&amp;nbsp;&lt;br&gt;bayar =total -jmaDis" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+                    <mxGeometry x="345" y="450" width="100" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="TcskRT-ms2JkNAbtTxXH-5" target="TcskRT-ms2JkNAbtTxXH-6">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="TcskRT-ms2JkNAbtTxXH-5" value="tampilkan merk buku hal buku jumlah yang dibayarkan&amp;nbsp;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="1" vertex="1">
+                    <mxGeometry x="345" y="600" width="100" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="TcskRT-ms2JkNAbtTxXH-6" value="end" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" parent="1" vertex="1">
+                    <mxGeometry x="345" y="710" width="100" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="TcskRT-ms2JkNAbtTxXH-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.465;entryY=-0.012;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="TcskRT-ms2JkNAbtTxXH-7" target="TcskRT-ms2JkNAbtTxXH-2" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="TcskRT-ms2JkNAbtTxXH-7" value="start" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" parent="1" vertex="1">
+                    <mxGeometry x="340" y="90" width="100" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="TcskRT-ms2JkNAbtTxXH-10" value="int harga jumlah double total bayar,jmlDis String merk&amp;nbsp; buku,jmlHalBuku" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="360" y="225" width="60" height="10" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="input merk&amp;nbsp; buku&amp;nbsp;&lt;br&gt;jmhal buku&amp;nbsp;&lt;br&gt;harga jumlah&amp;nbsp;&lt;br&gt;jml Dis" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="340" y="325" width="120" height="70" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
